@@ -1,3 +1,5 @@
+#learn object oriented programming. This code will reduce to half it's sizzeee!!!. Good work tho
+
 print("WELCOME TO THE FAMILY HEALTH MANAGEMENT SYSTEM")
 print("Identify Yourself ")
 print("Press-1 For Shaurya \nPress-2 For Bhavya\nPress-3 For Rashmi\nPress-4 For Deepak ")
